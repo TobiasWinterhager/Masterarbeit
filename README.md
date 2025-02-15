@@ -23,6 +23,6 @@ A script for generating and saving data
 A script for generating plots from data (quite messy)
 
 ## the directory generated_plots
-contain generated data and plots
+contains generated data and plots
 
-The generated data can be downloaded from https://tubcloud.tu-berlin.de/s/HWZLaBAe8Tq3x6p
+## The generated data can be downloaded from https://tubcloud.tu-berlin.de/s/HWZLaBAe8Tq3x6p
